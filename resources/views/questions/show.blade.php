@@ -1,0 +1,3 @@
+{{ $question}}
+<hr>
+{{ $question->booklate}}
